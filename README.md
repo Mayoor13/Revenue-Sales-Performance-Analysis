@@ -8,7 +8,7 @@ The aim was to transform transactional data into a clear reporting view that can
 
 ## Dashboard
 
-![Revenue & Sales Performance](dashboard.png)
+![Revenue & Sales Performance](revenue-sales-performance.png)
 
 ## Key Metrics
 
